@@ -1,7 +1,7 @@
 // src/App.js
 
 import React, { useState, useEffect } from 'react';
-import { connectWallet } from './utils/connectWallet';
+// import { connectWallet } from './utils/connectWallet';
 import CertificationNFT from './contracts/CertificationNFT.json';
 import { ethers } from 'ethers';
 import Quiz from './components/Quiz';
